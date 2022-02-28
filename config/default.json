@@ -1,0 +1,8 @@
+{
+  "mongoURI": "mongodb://127.0.0.1:27017/ksudha",
+  "jwtToken": "mysecretkey",
+  "githubClientId": "29773f1725247b8953fa",
+  "githubSecret": "07b652bc32d53025fc4bda3df0d03ad5da4ecfa5",
+  "FILE_UPLOAD_PATH": "./public/uploads",
+  "MAX_FILE_UPLOAD":1000000 
+}
